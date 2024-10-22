@@ -34,10 +34,10 @@ I welcome contributions and feedback from the community. You can help build out 
    npm install
    ```
 You can also check out the other repositories for Elara, Serena, Celeste, and Corina here.
-Elara: [https://github.com/anugrahatwork/Elara](https://github.com/anugrahatwork/Elara).
-Serena: [https://github.com/anugrahatwork/Serena](https://github.com/anugrahatwork/Serena).
-Celeste: [https://github.com/anugrahatwork/Celeste](https://github.com/anugrahatwork/Celeste).
-Corina: [https://github.com/anugrahatwork/Corina](https://github.com/anugrahatwork/Corina).
+- Elara: [https://github.com/anugrahatwork/Elara](https://github.com/anugrahatwork/Elara).
+- Serena: [https://github.com/anugrahatwork/Serena](https://github.com/anugrahatwork/Serena).
+- Celeste: [https://github.com/anugrahatwork/Celeste](https://github.com/anugrahatwork/Celeste).
+- Corina: [https://github.com/anugrahatwork/Corina](https://github.com/anugrahatwork/Corina).
 
 ## Note: Elara, Serena, Celeste, and Corina Dream Projects
 Elara, Serena, Celeste, and Corina have their upgrade version system that yet unmaintaned yet. but if you want to know them, here i give you the list
@@ -48,7 +48,7 @@ Elara, Serena, Celeste, and Corina have their upgrade version system that yet un
 - **Obelisk**: A dynamic data-driven CRM that automates UI and database schema exchanges, making it possible to create systems like Notion, but fully integrated with backend logic.
 
 You can also check out the other repositories for Elara, Serena, Celeste, and Corina here.
-Throne: [Link](https://github.com/AnuverseHQ/Obelisk).
-Seraph: [Link](https://github.com/AnuverseHQ/Seraph).
-qRPC-Socket: [Link](https://github.com/AnuverseHQ/qRPC-Socket).
-Obelisk: [Link](https://github.com/AnuverseHQ/Obelisk).
+- Throne: [Link](https://github.com/AnuverseHQ/Obelisk).
+- Seraph: [Link](https://github.com/AnuverseHQ/Seraph).
+- qRPC-Socket: [Link](https://github.com/AnuverseHQ/qRPC-Socket).
+- Obelisk: [Link](https://github.com/AnuverseHQ/Obelisk).
