@@ -34,10 +34,10 @@ I welcome contributions and feedback from the community. You can help build out 
    npm install
    ```
 You can also check out the other repositories for Elara, Serena, Celeste, and Corina here.
-Elara: [https://github.com/anugrahatwork/Elara](https://github.com/anugrahatwork/Elara)
-Serena: [https://github.com/anugrahatwork/Serena](https://github.com/anugrahatwork/Serena)
-Celeste: [https://github.com/anugrahatwork/Celeste](https://github.com/anugrahatwork/Celeste)
-Corina: [https://github.com/anugrahatwork/Corina](https://github.com/anugrahatwork/Corina)
+Elara: [https://github.com/anugrahatwork/Elara](https://github.com/anugrahatwork/Elara) \n
+Serena: [https://github.com/anugrahatwork/Serena](https://github.com/anugrahatwork/Serena) \n
+Celeste: [https://github.com/anugrahatwork/Celeste](https://github.com/anugrahatwork/Celeste) \n
+Corina: [https://github.com/anugrahatwork/Corina](https://github.com/anugrahatwork/Corina) \n
 
 ## Note: Elara, Serena, Celeste, and Corina Dream Projects
 Elara, Serena, Celeste, and Corina have their upgrade version system that yet unmaintaned yet. but if you want to know them, here i give you the list
